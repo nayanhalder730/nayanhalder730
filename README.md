@@ -1,35 +1,110 @@
-<h1 align="center">Hi 👋, I'm Nayan Halder</h1>
-<h3 align="center">Frontend Developer passionate about building modern and responsive websites.</h3>
+<!-- ==================== BANNER ==================== -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nayanhalder730&label=Profile%20views&color=0e75b6&style=flat" alt="nayanhalder730" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nayanhalder730" alt="nayanhalder730" /></a> </p>
-
-- 🔭 I’m currently working on **CSS, Tailwind CSS, JavaScript, TypeScript projects**
-
-- 🌱 I’m currently learning **React.js**
-
-- 👯 I’m looking to collaborate on **Frontend & Open Source projects**
-
-- 🤝 I’m looking for help with **React.js & TypeScript**
-
-- 👨‍💻 All of my projects are available at [My GitHub repositories](My GitHub repositories)
-
-- 💬 Ask me about **HTML, CSS, Tailwind CSS, JavaScript, TypeScript & Reac**
-
-- 📫 How to reach me **nayanh730@gmail.com**
-
-- ⚡ Fun fact **When I'm not coding, I'm usually watching or playing football & cricket!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nayan halder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nayan halder" height="30" width="40" /></a>
-<a href="https://fb.com/nayan halder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nayan halder" height="30" width="40" /></a>
+<p align="center">
+  <img src="./banner.png" width="100%" alt="Nayan Halder Banner" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<h1 align="center">Hi 👋, I'm Nayan Halder</h1>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nayanhalder730&show_icons=true&locale=en&layout=compact" alt="nayanhalder730" /></p>
+<h3 align="center">Frontend Developer | Learning & Building 🚀</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nayanhalder730&" alt="nayanhalder730" /></p>
+<p align="center">
+  I am passionate about learning web development and building modern, responsive, and interactive websites.
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nayanhalder730&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I am currently learning **Frontend Web Development** and improving my skills by practicing and building projects.
+
+I enjoy creating clean, responsive, and user-friendly websites and exploring how modern web technologies work together.
+
+My current focus is on strengthening my fundamentals and becoming a better Frontend Developer step by step. 🚀
+
+---
+
+## 🚀 What I'm Currently Learning
+
+* 🌱 Learning **React.js** to build interactive user interfaces
+* 💻 Practicing **JavaScript** and modern JavaScript concepts
+* 📘 Learning **TypeScript** for writing type-safe code
+* 🎨 Building responsive interfaces with **Tailwind CSS**
+* 🌐 Improving my **HTML & CSS** fundamentals
+* 🔨 Building small projects to improve my practical skills
+* 📚 Continuously exploring new concepts in Frontend Development
+
+---
+
+## 🛠️ Skills & Technologies
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="50" height="50"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/nayanhalder730" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://facebook.com/nayanhalder730" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+
+  <a href="mailto:nayanh730@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nayanhalder730&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayanhalder730&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayanhalder730&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nayanhalder730&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph" width="100%"/>
+</p>
+
+---
+
+<p align="center">
+  <b>✨ Learning • Building • Improving 🚀</b>
+</p>
+
+<p align="center">
+  Thanks for visiting my profile! 😊
+</p>
