@@ -78,8 +78,8 @@ My current focus is on strengthening my fundamentals and becoming a better Front
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=nayanhalder730&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nayanhalder730&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nayanhalder730&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayanhalder730&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
 ---
@@ -93,7 +93,7 @@ My current focus is on strengthening my fundamentals and becoming a better Front
 
 ## 📈 Contribution Activity
 <p align="center">
-  <img src="https://ghchart.rshah.org/nayanhalder730" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nayanhalder730&theme=tokyonight&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
 </p>
 
 ---
