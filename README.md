@@ -93,7 +93,7 @@ My current focus is on strengthening my fundamentals and becoming a better Front
 
 ## 📈 Contribution Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nayanhalder730&theme=tokyonight&area=true" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.org/nayanhalder730" alt="Contribution Graph" width="100%" />
 </p>
 
 ---
