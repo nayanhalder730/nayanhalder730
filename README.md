@@ -78,26 +78,19 @@ My current focus is on strengthening my fundamentals and becoming a better Front
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nayanhalder730&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayanhalder730&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%"/>
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=nayanhalder730&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayanhalder730&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" /> </p>
 
 ---
 
 ## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayanhalder730&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</p>
+<p align="center"> <img src="https://streak-stats.demolab.com?user=nayanhalder730&theme=radical&hide_border=true" alt="GitHub Streak" /> </p>
 
 ---
 
 ## 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nayanhalder730&theme=react-dark&hide_border=true" alt="GitHub Contribution Graph" width="100%"/>
-</p>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=nayanhalder730&theme=react-dark&hide_border=true&area=true" alt="GitHub Contribution Graph" width="100%" /> </p>
 
 ---
 
