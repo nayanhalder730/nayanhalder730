@@ -91,9 +91,11 @@ My current focus is on strengthening my fundamentals and becoming a better Front
 
 ---
 
-## 📈 Contribution Activity
+## 📊 GITHUB STATISTICS & ANALYSIS:
+
+### 🐍 GitHub Contributions:
 <p align="center">
-  <img src="https://svg.ghchart.ucheng.no/nayanhalder730" alt="Contribution Graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/nayanhalder730/nayanhalder730/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 </p>
 
 ---
