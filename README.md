@@ -94,7 +94,7 @@ My current focus is on strengthening my fundamentals and becoming a better Front
 ## 📊 GITHUB STATISTICS & ANALYSIS:
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/YOUR_USERNAME" alt="Contribution Graph" width="100%" />
+  <img src="https://ghchart.rshah.org/nayanhalder730" alt="Contribution Graph" width="100%" />
 </p>
 ---
 
