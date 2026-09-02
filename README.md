@@ -93,7 +93,9 @@ My current focus is on strengthening my fundamentals and becoming a better Front
 
 ## 📊 GITHUB STATISTICS & ANALYSIS:
 
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=nayanhalder730&theme=react-dark&hide_border=true&area=true" alt="Nayan Halder's GitHub Contribution Activity" width="100%" /> </p>
+<p align="center">
+  <img src="https://ghchart.rshah.org/YOUR_USERNAME" alt="Contribution Graph" width="100%" />
+</p>
 ---
 
 <p align="center">
