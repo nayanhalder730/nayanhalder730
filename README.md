@@ -61,11 +61,11 @@ My current focus is on strengthening my fundamentals and becoming a better Front
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/nayanhalder730" target="_blank">
+  <a href="https:www.linkedin.com/in/nayan-halder-541379343" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
-  <a href="https://facebook.com/nayanhalder730" target="_blank">
+  <a href="https://www.facebook.com/nayan81xd/about/?fb_profile_edit_entry_point=%7B%22click_point%22%3A%22edit_profile_button%22%2C%22feature%22%3A%22profile_header%22%7D&id=100024709350912&sk=about" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
 
